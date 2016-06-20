@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (c) 2013, The Linux Foundation. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+      copyright notice, this list of conditions and the following
+      disclaimer in the documentation and/or other materials provided
+      with the distribution.
+    * Neither the name of The Linux Foundation nor the names of its
+      contributors may be used to endorse or promote products derived
+      from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT
+ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+
+<resources>
+    <color name="action_bar_background">#ff222222</color>
+    <color name="audiofx_background_color">#ff222222</color>
+    <color name="eq_preset_label_text_color">#ffffffff</color>
+    <color name="reverb_label_text_color">#ffffffff</color>
+
+    <color name="highlight">#ff8F8F8E</color>
+    <color name="lowlight">#ccf4fcff</color>
+    <color name="grey">#ffffffff</color>
+    <color name="disabled">#80525252</color>
+    <color name="disabled_gallery">#888888</color>
+    <color name="disabled_knob">#575757</color>
+
+    <color name="primary">#ff222222</color>
+    <color name="primary_dark">#ff222222</color>
+    <color name="accent">#ffE84E40</color>
+
+    <color name="white">#fafafa</color>
+    <color name="black">#ff222222</color>
+    <color name="grid_lines">#22ffffff</color>
+    <color name="cb">#ffE84E40</color>
+    <color name="freq_hl">#2000ddff</color>
+    <color name="freq_hl2">#4033b5e5</color>
+    <color name="eq_red">#ff222222</color>
+    <color name="eq_green">#ff222222</color>
+    <color name="eq_yellow">#ff222222</color>
+    <color name="eq_holo_bright">#ff222222</color>
+    <color name="eq_holo_blue">#ff222222</color>
+    <color name="eq_holo_dark">#ff222222</color>
+    <color name="cb_shader">#ffffffff</color>
+    <color name="cb_shader_alpha">#22ffffff</color>
+
+    <color name="window_background">@color/black</color>
+</resources>
